@@ -1,3 +1,0 @@
-#!/bin/bash 
-Hellooworld!
-exit
